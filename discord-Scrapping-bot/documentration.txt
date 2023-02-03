@@ -1,0 +1,26 @@
+
+Documentacion de Referencia:
+
+https://selenium-python.readthedocs.io/waits.html
+https://seleniumbyexamples.github.io/wait
+https://www.selenium.dev/documentation/
+
+
+
+
+# Esto es lo que le falta al programa
+
+# TODO: 1) En horas definidmos la funcion que va a detectar las notififcacikones del discord
+# Ademas de la lista de Servers
+# y la lista de personas de cada Server
+# la detedcion de las notificaciones de los servidoress
+
+# TODO: 2) definicion de las funciones de tiempo para poder guardar los datos de manera ordenada e ir comparandola
+
+#TODO: 3)  Cr ear la funcion principal que va a a acutar de manera inteligente en discord 
+# va a combinar los usos y entrada dentro de los canales y los amigos de cada persona
+
+#TODO: 4) mejorar el chatbot usando redes neuronales para el procesamiento de lengauje
+# el objetivo es implementar el reconocimiento de lengyuaje Chileno y ser capaz de moverse con los modismos chilenos
+
+#TODO: 5) En esta vemos los tiempos de espera y se programan de manera asyncrona ademas de elmina codigo redundante    
